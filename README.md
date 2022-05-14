@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi guys out there 👋, welcome to my room on the internet
+
+- 
 
 <!--
 **kernel-dang/kernel-dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
