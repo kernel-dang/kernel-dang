@@ -33,7 +33,8 @@ Top of skills:
 
 ![Script](https://skillicons.dev/icons?i=powershell,bash)
 
-Connect with me and take a coffee via: 
+Connect with me and take ☕ ☕ ☕:  
+[![Skype](/images/badge-skype.svg)](skype:kernel.dang) [![Skype](/images/badge-telegram.svg)](telegram:kernel.dang) [![Skype](/images/badge-linkedin.svg)](https://www.linkedin.com/in/kernel-dang/) 
 
 <!--
 **kernel-dang/kernel-dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
