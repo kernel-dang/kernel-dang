@@ -1,6 +1,6 @@
 ### Hi guys out there 👋, welcome to my lab
 
-I'm Kernel .D, a software engineer located in Ho Chi Minh city
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&lines=>%20I%27m%20Kernel%20.D%2C%20a%20software%20engineer%20located%20in%20Ho%20Chi%20Minh%20city)](https://git.io/typing-svg)  
 
 Interests:
 
@@ -34,7 +34,8 @@ Top of skills:
 ![Script](https://skillicons.dev/icons?i=powershell,bash)
 
 Connect with me and take ☕ ☕ ☕:  
-[![Skype](images/badge-skype.svg)](skype:kernel.dang) [![Skype](images/badge-telegram.svg)](telegram:kernel.dang) [![Skype](images/badge-linkedin.svg)](https://www.linkedin.com/in/kernel-dang/) 
+
+[![Skype](images/badge-skype.svg)](skype:kernel.dang) [![Telegram](images/badge-telegram.svg)](telegram:kernel.dang)
 
 <!--
 **kernel-dang/kernel-dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
