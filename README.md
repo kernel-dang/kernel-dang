@@ -23,7 +23,7 @@ Top of skills:
 
 * Database  
 
-![Database](https://skillicons.dev/icons?i=postgres)
+![Database](https://skillicons.dev/icons?i=mssql,postgres)
 
 * Tools:  
 
