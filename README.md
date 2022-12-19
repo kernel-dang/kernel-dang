@@ -35,7 +35,7 @@ Top of skills:
 
 Connect with me and take ☕ ☕ ☕:  
 
-![Skype](images/badge-skype.svg)(skype:kernel.dang) ![Telegram](images/badge-telegram.svg)(telegram:kernel.dang)
+[![Skype](images/badge-skype.svg)](skype:kernel.dang) [![Telegram](images/badge-telegram.svg)](telegram:kernel.dang)
 
 <!--
 **kernel-dang/kernel-dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
