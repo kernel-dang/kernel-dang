@@ -7,4 +7,4 @@ Interests:
 - Design Pattern ☠️
 - Solution Architecture 🏠
 - Languages... 💃
-- Make complicated problems become simple until a child can understand 💡
+- Minimalism 💡
