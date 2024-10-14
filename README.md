@@ -1,6 +1,9 @@
-# Hi guys👋, welcome to my lab 💻
+![Profile views](https://komarev.com/ghpvc/?username=kernel-dang)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&lines=>%20I%27m%20KernelD%2C%20a%20software%20engineer%20living%20in%20Ho%20Chi%20Minh%20city...)](https://git.io/typing-svg)  
+# Hi,
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+KernelD%2C+a+handsome+guy+from+Vietnam...)](https://git.io/typing-svg)
+
 
 Interests:
 
