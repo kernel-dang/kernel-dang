@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=kernel-dang)
 
-# Hi,
+# Hi Bros
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+KernelD%2C+a+handsome+guy+from+Vietnam...)](https://git.io/typing-svg)
 
